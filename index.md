@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 permalink_name: /home
-title: jekyll-shell-theme
+title: Dat-Game
 
 detail_image: assets/theme_logo.svg
 
